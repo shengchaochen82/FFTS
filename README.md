@@ -1,4 +1,4 @@
-# Federated Foundation Models on Heterogeneous Time Series <FFTS>
+# Federated Foundation Models on Heterogeneous Time Series - New framework *FFTS*
 
 ### Official implementation for our AAAI'25 paper "Federated Foundation Models on Heterogeneous Time Series".
 
