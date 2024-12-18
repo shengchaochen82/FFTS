@@ -5,6 +5,7 @@
 ---
 
 :triangular_flag_on_post:**News** (2024.12.18) Our paper has been posted in [Federated Foundation Models on Heterogeneous Time Series](https://arxiv.org/abs/2412.08906), the technical appendix will be updated ASAP.
+
 :triangular_flag_on_post:**News** (2024.12.10) Our paper has been accepted by **AAAI 2025** and we will be releasing the preprint and code for our paper ASAP.
 
 ---
