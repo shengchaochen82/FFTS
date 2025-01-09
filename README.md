@@ -4,6 +4,8 @@
 
 ---
 
+:triangular_flag_on_post:**News** (2025.01.09) You can download the pretraining dataset from the [Monash Time Series Repo](https://forecastingdata.org/) based on the [Pretrainig Dataset Overview](#Datasets) (at your own risk). We also provide unified preprocessing tools in **preprocessing.ipynb**. 
+
 :triangular_flag_on_post:**News** (2024.12.18) Our paper has been posted in [Federated Foundation Models on Heterogeneous Time Series](https://arxiv.org/abs/2412.08906), the technical appendix will be updated ASAP.
 
 :triangular_flag_on_post:**News** (2024.12.10) Our paper has been accepted by **AAAI 2025** and we will be releasing the preprint and code for our paper ASAP.
