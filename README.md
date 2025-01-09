@@ -31,8 +31,7 @@ Training a general-purpose time series foundation models with robust generalizat
 ![Adaption](assest/adaption.png "What's New")
 
 
-### Please cite our publication if you found our research to be helpful and insightful.
-
+## Please cite our publication if you found our research to be helpful and insightful!
 ```bibtex
 @misc{chen2024federatedfoundationmodelsheterogeneous,
       title={Federated Foundation Models on Heterogeneous Time Series}, 
