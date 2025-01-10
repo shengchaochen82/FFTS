@@ -42,3 +42,8 @@ Training a general-purpose time series foundation models with robust generalizat
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2412.08906}, 
 }
+```
+
+## Acknolwedgement
+> [!note]
+> We are reshaping our code. There may be some changes to the code.
