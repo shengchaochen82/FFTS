@@ -3,17 +3,18 @@
 ### Official implementation for our AAAI'25 paper "Federated Foundation Models on Heterogeneous Time Series".
 
 ---
+:triangular_flag_on_post:**News** (2025.08) The code has been restructured. ***New feature:*** learnerable time-scale weights have been introduced in the ATM module.
 
-:triangular_flag_on_post:**News** (2025.01.09) You can download the pretraining dataset from the [Monash Time Series Repo](https://forecastingdata.org/) based on the [Pretrainig Dataset Overview](#Datasets) (at your own risk). We also provide unified preprocessing tools in `preprocessing.ipynb`. 
+:triangular_flag_on_post:**News** (2025.01) You can download the pretraining dataset from the [Monash Time Series Repo](https://forecastingdata.org/) based on the [Pretrainig Dataset Overview](#Datasets) (at your own risk). We also provide unified preprocessing tools in `preprocessing.ipynb`. 
 
-:triangular_flag_on_post:**News** (2024.12.18) Our paper has been posted in [Federated Foundation Models on Heterogeneous Time Series](https://arxiv.org/abs/2412.08906), the technical appendix will be updated ASAP.
+:triangular_flag_on_post:**News** (2024.12) Our paper has been posted in [Federated Foundation Models on Heterogeneous Time Series](https://arxiv.org/abs/2412.08906), the technical appendix will be updated ASAP.
 
-:triangular_flag_on_post:**News** (2024.12.10) Our paper has been accepted by **AAAI 2025** and we will be releasing the preprint and code for our paper ASAP.
+:triangular_flag_on_post:**News** (2024.12) Our paper has been accepted by **AAAI 2025** and we will be releasing the preprint and code for our paper ASAP.
 
 
 ---
-- [ ] Release code
-- [ ] Release detailed training tutorials
+- [x] Release code
+- [x] Release detailed training tutorials
 - [x] Pre-training data download and corresponding tutorials
 - [x] Release papers
 ---
@@ -33,17 +34,18 @@ Training a general-purpose time series foundation models with robust generalizat
 
 ## Please cite our publication if you found our research to be helpful and insightful!
 ```bibtex
-@misc{chen2024federatedfoundationmodelsheterogeneous,
-      title={Federated Foundation Models on Heterogeneous Time Series}, 
-      author={Shengchao Chen and Guodong Long and Jing Jiang and Chengqi Zhang},
-      year={2024},
-      eprint={2412.08906},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2412.08906}, 
+@inproceedings{chen2025federated,
+  title={Federated foundation models on heterogeneous time series},
+  author={Chen, Shengchao and Long, Guodong and Jiang, Jing and Zhang, Chengqi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={15},
+  pages={15839--15847},
+  year={2025}
 }
 ```
 
 ## Acknolwedgement
 > [!note]
-> We are reshaping our code. There may be some changes to the code.
+> We are reshaping our code. There may be some changes to the code. 
+> We are grateful for the many excellent open source frameworks that have given us support, including [Time-Series-Library](https://github.com/thuml/Time-Series-Library), and [PFLlib](https://github.com/TsingZ0/PFLlib).
