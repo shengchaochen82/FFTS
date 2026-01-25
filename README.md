@@ -32,7 +32,7 @@ Training a general-purpose time series foundation models with robust generalizat
 ![Adaption](assest/adaption.png "What's New")
 
 
-## Please cite our publication if you found our research to be helpful and insightful!
+## Please cite our publication if you found our research to be helpful!
 ```bibtex
 @inproceedings{chen2025federated,
   title={Federated foundation models on heterogeneous time series},
@@ -47,5 +47,4 @@ Training a general-purpose time series foundation models with robust generalizat
 
 ## Acknolwedgement
 > [!note]
-> We are reshaping our code. There may be some changes to the code. 
 > We are grateful for the many excellent open source frameworks that have given us support, including [Time-Series-Library](https://github.com/thuml/Time-Series-Library), and [PFLlib](https://github.com/TsingZ0/PFLlib).
