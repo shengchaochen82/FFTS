@@ -444,6 +444,6 @@ timeline
 
 Made with ❤️ by Shengchao Chen
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/FFTS&type=Date)](https://star-history.com/shengchao/FFTS&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=shengchaochen82/FFTS&type=Date)](https://star-history.com/shengchaochen82/FFTS&Date)
 
 </div>
