@@ -4,10 +4,10 @@
 
 **AAAI 2025** | [![arXiv](https://img.shields.io/badge/arXiv-2412.08906-b31b1b.svg)](https://arxiv.org/abs/2412.08906) [![AAAI](https://img.shields.io/badge/AAAI-2025-1f4b99.svg)](https://aaai.org/aaai-conference/) [![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f.svg)](LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/FFTS?style=social)](https://github.com/shengchaochen82/FFTS/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/FFTS?style=social)](https://github.com/shengchaochen82/FFTS/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/FFTS)](https://github.com/shengchaochen82/FFTS/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/FFTS)](https://github.com/shengchaochen82/FFTS/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/shengchaochen82/FFTS?style=social)](https://github.com/shengchaochen82/FFTS/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/shengchaochen82/FFTS?style=social)](https://github.com/shengchaochen82/FFTS/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/shengchaochen82/FFTS)](https://github.com/shengchaochen82/FFTS/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/shengchaochen82/FFTS)](https://github.com/shengchaochen82/FFTS/pulls)
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
