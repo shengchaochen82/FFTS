@@ -24,7 +24,6 @@
 - [🚀 Overview](#-overview)
 - [✨ Key Features](#-key-features)
 - [🎯 Method](#-method)
-- [📊 Results](#-results)
 - [🛠️ Installation](#️-installation)
 - [⚡ Quick Start](#-quick-start)
 - [📁 Repository Structure](#-repository-structure)
@@ -445,6 +444,6 @@ timeline
 
 Made with ❤️ by Shengchao Chen
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/FFTS&type=Date)](https://star-history.com/#yourusername/FFTS&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/FFTS&type=Date)](https://star-history.com/shengchao/FFTS&Date)
 
 </div>
