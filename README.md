@@ -4,10 +4,10 @@
 
 **AAAI 2025** | [![arXiv](https://img.shields.io/badge/arXiv-2412.08906-b31b1b.svg)](https://arxiv.org/abs/2412.08906) [![AAAI](https://img.shields.io/badge/AAAI-2025-1f4b99.svg)](https://aaai.org/aaai-conference/) [![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f.svg)](LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/FFTS?style=social)](https://github.com/yourusername/FFTS/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/FFTS?style=social)](https://github.com/yourusername/FFTS/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/FFTS)](https://github.com/yourusername/FFTS/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/FFTS)](https://github.com/yourusername/FFTS/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/FFTS?style=social)](https://github.com/shengchaochen82/FFTS/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/FFTS?style=social)](https://github.com/shengchaochen82/FFTS/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/FFTS)](https://github.com/shengchaochen82/FFTS/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/FFTS)](https://github.com/shengchaochen82/FFTS/pulls)
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
@@ -174,32 +174,6 @@ graph LR
 
 ---
 
-## 📊 Results
-
-### Performance Comparison
-
-| Task | Baseline | FFTS | Improvement |
-|------|----------|------|-------------|
-| 📈 **Forecasting** | 0.823 | **0.891** | +8.3% |
-| 🔍 **Imputation** | 0.767 | **0.842** | +9.8% |
-| ⚠️ **Anomaly Detection** | 0.712 | **0.795** | +11.7% |
-
-<details>
-<summary><strong>📈 Detailed Benchmark Results</strong></summary>
-
-| Dataset | Forecasting (MSE) | Imputation (MAE) | Anomaly Detection (AUC) |
-|---------|-------------------|-----------------|------------------------|
-| Weather | 0.124 | 0.087 | 0.923 |
-| Traffic | 0.156 | 0.102 | 0.891 |
-| Electricity | 0.098 | 0.067 | 0.945 |
-| Exchange Rate | 0.234 | 0.178 | 0.812 |
-
-*All results averaged over 5 runs with 95% confidence intervals.*
-
-</details>
-
----
-
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -212,7 +186,7 @@ graph LR
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/FFTS.git
+git clone https://github.com/shengchaochen82/FFTS.git
 cd FFTS
 
 # Create virtual environment
@@ -416,8 +390,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📬 Contact
 
-- **Shengchao Chen** - [GitHub](https://github.com/yourusername)
-- For questions, please open an [issue](https://github.com/yourusername/FFTS/issues)
+- **Shengchao Chen** - [Bio](shengchaochen82.github.io)
+- For questions, please open an [issue](https://github.com/shengchaochen82/FFTS/issues)
 
 ---
 
@@ -452,18 +426,6 @@ timeline
 - [x] Implement federated learning framework
 - [x] Add ATM module with learnable weights
 
-### In Progress 🚧
-
-- [ ] Extended documentation
-- [ ] More example notebooks
-- [ ] Performance optimizations
-
-### Planned 🔮
-
-- [ ] Support for additional datasets
-- [ ] Real-world deployment guide
-- [ ] Interactive visualization tools
-- [ ] Docker containerization
 
 </details>
 
@@ -481,7 +443,7 @@ timeline
 
 **[⬆ Back to Top](#federated-foundation-models-on-heterogeneous-time-series-ffts)**
 
-Made with ❤️ by the FFTS Team
+Made with ❤️ by Shengchao Chen
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yourusername/FFTS&type=Date)](https://star-history.com/#yourusername/FFTS&Date)
 
