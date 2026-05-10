@@ -52,65 +52,8 @@ Training general-purpose time series foundation models across diverse domains is
 | ⚠️ Limited generalization | ✅ Dual-side regularization |
 | ⚠️ Single-task limitations | ✅ Unified adaptation architecture |
 
-### 🔄 How It Works
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                     Central Server                          │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │  Global Model Aggregation + Knowledge Alignment     │   │
-│  └─────────────────────────────────────────────────────┘   │
-└─────────────────────────┬───────────────────────────────────┘
-                          │
-          ┌───────────────┼───────────────┐
-          ▼               ▼               ▼
-    ┌──────────┐    ┌──────────┐    ┌──────────┐
-    │ Client 1 │    │ Client 2 │    │ Client N │
-    │  Domain  │    │  Domain  │    │  Domain  │
-    └──────────┘    └──────────┘    └──────────┘
-```
-
-The resulting foundation model generalizes well across **forecasting**, **imputation**, and **anomaly detection** tasks.
-
 ---
 
-## ✨ Key Features
-
-### 🌟 Highlights
-
-```mermaid
-graph TD
-    A[FFTS Framework] --> B[Federated Foundation Model]
-    A --> C[Client-Specific Local Models]
-    A --> D[Unified Adaptation Architecture]
-    A --> E[Learnable Time-Scale Weights]
-
-    B --> B1[Heterogeneous Dataset Support]
-    C --> C1[Domain-Specific Pattern Preservation]
-    D --> D1[Multi-Task Adaptation]
-    E --> E1[Temporal Pattern Learning]
-
-    style A fill:#6e42f5,color:#fff
-    style B fill:#e7f2ff
-    style C fill:#e7f2ff
-    style D fill:#e7f2ff
-    style E fill:#e7f2ff
-```
-
-<details>
-<summary><strong>📋 Feature Details</strong></summary>
-
-| Feature | Description | Benefit |
-|---------|-------------|---------|
-| 🔗 **Federated Learning** | Each dataset owner operates as an independent client | Privacy-preserving collaboration |
-| 🧠 **Client-Specific Models** | Local models preserve dataset-specific characteristics | Better domain adaptation |
-| 🤝 **Knowledge Alignment** | Client and server regularization align shared knowledge | Effective cross-domain learning |
-| 🎯 **Unified Adaptation** | Single architecture for multiple downstream tasks | Efficient fine-tuning |
-| ⏰ **Learnable Time-Scale Weights** | ATM module with adaptive temporal weights | Enhanced pattern recognition |
-
-</details>
-
----
 
 ## 🎯 Method
 
