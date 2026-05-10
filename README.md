@@ -385,48 +385,6 @@ This work was inspired and supported by:
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
----
-
-## 📬 Contact
-
-- **Shengchao Chen** - [Bio](shengchaochen82.github.io)
-- For questions, please open an [issue](https://github.com/shengchaochen82/FFTS/issues)
-
----
-
-## 🗺️ Roadmap
-
-<details>
-<summary><strong>🚀 Development Timeline</strong></summary>
-
-```mermaid
-timeline
-    title FFTS Development Roadmap
-    section 2024
-        Dec 2024 : Paper accepted at AAAI 2025
-        Dec 2024 : Preprint posted on arXiv
-    section 2025
-        Jan 2025 : Pretraining datasets available
-        Jan 2025 : Preprocessing tutorials released
-        Aug 2025 : Codebase restructured
-        Aug 2025 : Learnable time-scale weights added
-    section Future
-        Q1 2026 : Extended experiments
-        Q2 2026 : Additional dataset support
-        Q3 2026 : Documentation enhancement
-```
-
-### Completed ✅
-
-- [x] Release core codebase
-- [x] Release detailed training tutorials
-- [x] Pretraining data download and tutorials
-- [x] Release AAAI 2025 paper
-- [x] Implement federated learning framework
-- [x] Add ATM module with learnable weights
-
-
-</details>
 
 ---
 
@@ -436,14 +394,7 @@ timeline
 - [PFLlib](https://github.com/TsingZ0/PFLlib) - Personalized federated learning library
 - [FederatedScope](https://github.com/alibaba/FederatedScope) - A comprehensive federated learning platform
 
----
 
-<div align="center">
 
-**[⬆ Back to Top](#federated-foundation-models-on-heterogeneous-time-series-ffts)**
-
-Made with ❤️ by Shengchao Chen
-
-[![Star History Chart](https://api.star-history.com/svg?repos=shengchaochen82/FFTS&type=Date)](https://star-history.com/shengchaochen82/FFTS&Date)
 
 </div>
